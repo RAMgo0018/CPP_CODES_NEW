@@ -7,6 +7,6 @@ int main()
     cin>> x;
     cout<<" enter y"<< endl;
     cin>>y;
-    cout<< "multiplication is "<<(x/y);
+    cout<< "Division is "<<(x/y);
     return 0;
 }
