@@ -12,3 +12,4 @@ int main()
     cout<<" sum of two numbers is"<<sum;
     return 0;
 }
+ 
