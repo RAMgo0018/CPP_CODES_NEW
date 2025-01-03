@@ -9,7 +9,7 @@ int main()
     cout<<"enter b";
     cin>>b;
     sum= a+b;
-    cout<<" sum of two numbers is"<<sum;
+    cout<<" sum of two numbers is always"<<sum;
     return 0;
 }
  
